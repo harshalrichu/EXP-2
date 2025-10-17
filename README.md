@@ -6,3 +6,5 @@
 ![2 six](https://github.com/user-attachments/assets/fa7c7428-5738-4f99-810b-e54764f3b104)
 ![2 seven](https://github.com/user-attachments/assets/8ef1ddd7-477c-4077-bea7-6dfcfd51e5c8)
 ![2 eight](https://github.com/user-attachments/assets/36f0c09c-9dfc-474f-83f1-370ee446e142)
+[Uploading Virtual Labs exp 2 mag.pdf…]()
+[Uploading Virtual Labs 2.pdf…]()
